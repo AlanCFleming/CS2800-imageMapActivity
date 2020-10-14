@@ -1,1 +1,1 @@
-# CS2800-imageMapActivity
+# Image Map Activity
